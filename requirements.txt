@@ -1,0 +1,8 @@
+pytesseract
+PyMuPDF
+requests
+tqdm
+torch
+torchvision
+easyocr
+elasticsearch
